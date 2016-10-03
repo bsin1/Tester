@@ -1,0 +1,22 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sinnott-balin/Tester.git"
+  },
+  "author": "Balin Sinnott",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sinnott-balin/Tester/issues"
+  },
+  "homepage": "https://github.com/sinnott-balin/Tester#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
